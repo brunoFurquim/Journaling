@@ -1,0 +1,30 @@
+[
+  {
+    "name": "home",
+    "path": "/home",
+    "component": "/Users/bruno.morone/Projects/journaling/pages/home/index.vue",
+    "chunkName": "pages/home/index",
+    "_name": "_1c023d85"
+  },
+  {
+    "name": "journal",
+    "path": "/journal",
+    "component": "/Users/bruno.morone/Projects/journaling/pages/journal/index.vue",
+    "chunkName": "pages/journal/index",
+    "_name": "_56c22967"
+  },
+  {
+    "name": "tasks",
+    "path": "/tasks",
+    "component": "/Users/bruno.morone/Projects/journaling/pages/tasks/index.vue",
+    "chunkName": "pages/tasks/index",
+    "_name": "_11daa63e"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/Users/bruno.morone/Projects/journaling/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_1fa49982"
+  }
+]

@@ -1,0 +1,692 @@
+{
+  "OutlineAcademicCapIcon": {
+    "description": "Auto imported from node_modules/@nuxt-hero-icons/outline/src/components/AcademicCapIcon.vue"
+  },
+  "OutlineAdjustmentsIcon": {
+    "description": "Auto imported from node_modules/@nuxt-hero-icons/outline/src/components/AdjustmentsIcon.vue"
+  },
+  "OutlineAnnotationIcon": {
+    "description": "Auto imported from node_modules/@nuxt-hero-icons/outline/src/components/AnnotationIcon.vue"
+  },
+  "OutlineArchiveIcon": {
+    "description": "Auto imported from node_modules/@nuxt-hero-icons/outline/src/components/ArchiveIcon.vue"
+  },
+  "OutlineArrowCircleDownIcon": {
+    "description": "Auto imported from node_modules/@nuxt-hero-icons/outline/src/components/ArrowCircleDownIcon.vue"
+  },
+  "OutlineArrowCircleLeftIcon": {
+    "description": "Auto imported from node_modules/@nuxt-hero-icons/outline/src/components/ArrowCircleLeftIcon.vue"
+  },
+  "OutlineArrowCircleRightIcon": {
+    "description": "Auto imported from node_modules/@nuxt-hero-icons/outline/src/components/ArrowCircleRightIcon.vue"
+  },
+  "OutlineArrowCircleUpIcon": {
+    "description": "Auto imported from node_modules/@nuxt-hero-icons/outline/src/components/ArrowCircleUpIcon.vue"
+  },
+  "OutlineArrowDownIcon": {
+    "description": "Auto imported from node_modules/@nuxt-hero-icons/outline/src/components/ArrowDownIcon.vue"
+  },
+  "OutlineArrowLeftIcon": {
+    "description": "Auto imported from node_modules/@nuxt-hero-icons/outline/src/components/ArrowLeftIcon.vue"
+  },
+  "OutlineArrowNarrowDownIcon": {
+    "description": "Auto imported from node_modules/@nuxt-hero-icons/outline/src/components/ArrowNarrowDownIcon.vue"
+  },
+  "OutlineArrowNarrowLeftIcon": {
+    "description": "Auto imported from node_modules/@nuxt-hero-icons/outline/src/components/ArrowNarrowLeftIcon.vue"
+  },
+  "OutlineArrowNarrowRightIcon": {
+    "description": "Auto imported from node_modules/@nuxt-hero-icons/outline/src/components/ArrowNarrowRightIcon.vue"
+  },
+  "OutlineArrowNarrowUpIcon": {
+    "description": "Auto imported from node_modules/@nuxt-hero-icons/outline/src/components/ArrowNarrowUpIcon.vue"
+  },
+  "OutlineArrowRightIcon": {
+    "description": "Auto imported from node_modules/@nuxt-hero-icons/outline/src/components/ArrowRightIcon.vue"
+  },
+  "OutlineArrowUpIcon": {
+    "description": "Auto imported from node_modules/@nuxt-hero-icons/outline/src/components/ArrowUpIcon.vue"
+  },
+  "OutlineArrowsExpandIcon": {
+    "description": "Auto imported from node_modules/@nuxt-hero-icons/outline/src/components/ArrowsExpandIcon.vue"
+  },
+  "OutlineAtSymbolIcon": {
+    "description": "Auto imported from node_modules/@nuxt-hero-icons/outline/src/components/AtSymbolIcon.vue"
+  },
+  "OutlineBackspaceIcon": {
+    "description": "Auto imported from node_modules/@nuxt-hero-icons/outline/src/components/BackspaceIcon.vue"
+  },
+  "OutlineBadgeCheckIcon": {
+    "description": "Auto imported from node_modules/@nuxt-hero-icons/outline/src/components/BadgeCheckIcon.vue"
+  },
+  "OutlineBanIcon": {
+    "description": "Auto imported from node_modules/@nuxt-hero-icons/outline/src/components/BanIcon.vue"
+  },
+  "OutlineBeakerIcon": {
+    "description": "Auto imported from node_modules/@nuxt-hero-icons/outline/src/components/BeakerIcon.vue"
+  },
+  "OutlineBellIcon": {
+    "description": "Auto imported from node_modules/@nuxt-hero-icons/outline/src/components/BellIcon.vue"
+  },
+  "OutlineBookOpenIcon": {
+    "description": "Auto imported from node_modules/@nuxt-hero-icons/outline/src/components/BookOpenIcon.vue"
+  },
+  "OutlineBookmarkAltIcon": {
+    "description": "Auto imported from node_modules/@nuxt-hero-icons/outline/src/components/BookmarkAltIcon.vue"
+  },
+  "OutlineBookmarkIcon": {
+    "description": "Auto imported from node_modules/@nuxt-hero-icons/outline/src/components/BookmarkIcon.vue"
+  },
+  "OutlineBriefcaseIcon": {
+    "description": "Auto imported from node_modules/@nuxt-hero-icons/outline/src/components/BriefcaseIcon.vue"
+  },
+  "OutlineCakeIcon": {
+    "description": "Auto imported from node_modules/@nuxt-hero-icons/outline/src/components/CakeIcon.vue"
+  },
+  "OutlineCalculatorIcon": {
+    "description": "Auto imported from node_modules/@nuxt-hero-icons/outline/src/components/CalculatorIcon.vue"
+  },
+  "OutlineCalendarIcon": {
+    "description": "Auto imported from node_modules/@nuxt-hero-icons/outline/src/components/CalendarIcon.vue"
+  },
+  "OutlineCameraIcon": {
+    "description": "Auto imported from node_modules/@nuxt-hero-icons/outline/src/components/CameraIcon.vue"
+  },
+  "OutlineCashIcon": {
+    "description": "Auto imported from node_modules/@nuxt-hero-icons/outline/src/components/CashIcon.vue"
+  },
+  "OutlineChartBarIcon": {
+    "description": "Auto imported from node_modules/@nuxt-hero-icons/outline/src/components/ChartBarIcon.vue"
+  },
+  "OutlineChartPieIcon": {
+    "description": "Auto imported from node_modules/@nuxt-hero-icons/outline/src/components/ChartPieIcon.vue"
+  },
+  "OutlineChartSquareBarIcon": {
+    "description": "Auto imported from node_modules/@nuxt-hero-icons/outline/src/components/ChartSquareBarIcon.vue"
+  },
+  "OutlineChatAlt2Icon": {
+    "description": "Auto imported from node_modules/@nuxt-hero-icons/outline/src/components/ChatAlt2Icon.vue"
+  },
+  "OutlineChatAltIcon": {
+    "description": "Auto imported from node_modules/@nuxt-hero-icons/outline/src/components/ChatAltIcon.vue"
+  },
+  "OutlineChatIcon": {
+    "description": "Auto imported from node_modules/@nuxt-hero-icons/outline/src/components/ChatIcon.vue"
+  },
+  "OutlineCheckCircleIcon": {
+    "description": "Auto imported from node_modules/@nuxt-hero-icons/outline/src/components/CheckCircleIcon.vue"
+  },
+  "OutlineCheckIcon": {
+    "description": "Auto imported from node_modules/@nuxt-hero-icons/outline/src/components/CheckIcon.vue"
+  },
+  "OutlineChevronDoubleDownIcon": {
+    "description": "Auto imported from node_modules/@nuxt-hero-icons/outline/src/components/ChevronDoubleDownIcon.vue"
+  },
+  "OutlineChevronDoubleLeftIcon": {
+    "description": "Auto imported from node_modules/@nuxt-hero-icons/outline/src/components/ChevronDoubleLeftIcon.vue"
+  },
+  "OutlineChevronDoubleRightIcon": {
+    "description": "Auto imported from node_modules/@nuxt-hero-icons/outline/src/components/ChevronDoubleRightIcon.vue"
+  },
+  "OutlineChevronDoubleUpIcon": {
+    "description": "Auto imported from node_modules/@nuxt-hero-icons/outline/src/components/ChevronDoubleUpIcon.vue"
+  },
+  "OutlineChevronDownIcon": {
+    "description": "Auto imported from node_modules/@nuxt-hero-icons/outline/src/components/ChevronDownIcon.vue"
+  },
+  "OutlineChevronLeftIcon": {
+    "description": "Auto imported from node_modules/@nuxt-hero-icons/outline/src/components/ChevronLeftIcon.vue"
+  },
+  "OutlineChevronRightIcon": {
+    "description": "Auto imported from node_modules/@nuxt-hero-icons/outline/src/components/ChevronRightIcon.vue"
+  },
+  "OutlineChevronUpIcon": {
+    "description": "Auto imported from node_modules/@nuxt-hero-icons/outline/src/components/ChevronUpIcon.vue"
+  },
+  "OutlineChipIcon": {
+    "description": "Auto imported from node_modules/@nuxt-hero-icons/outline/src/components/ChipIcon.vue"
+  },
+  "OutlineClipboardCheckIcon": {
+    "description": "Auto imported from node_modules/@nuxt-hero-icons/outline/src/components/ClipboardCheckIcon.vue"
+  },
+  "OutlineClipboardCopyIcon": {
+    "description": "Auto imported from node_modules/@nuxt-hero-icons/outline/src/components/ClipboardCopyIcon.vue"
+  },
+  "OutlineClipboardIcon": {
+    "description": "Auto imported from node_modules/@nuxt-hero-icons/outline/src/components/ClipboardIcon.vue"
+  },
+  "OutlineClipboardListIcon": {
+    "description": "Auto imported from node_modules/@nuxt-hero-icons/outline/src/components/ClipboardListIcon.vue"
+  },
+  "OutlineClockIcon": {
+    "description": "Auto imported from node_modules/@nuxt-hero-icons/outline/src/components/ClockIcon.vue"
+  },
+  "OutlineCloudDownloadIcon": {
+    "description": "Auto imported from node_modules/@nuxt-hero-icons/outline/src/components/CloudDownloadIcon.vue"
+  },
+  "OutlineCloudIcon": {
+    "description": "Auto imported from node_modules/@nuxt-hero-icons/outline/src/components/CloudIcon.vue"
+  },
+  "OutlineCloudUploadIcon": {
+    "description": "Auto imported from node_modules/@nuxt-hero-icons/outline/src/components/CloudUploadIcon.vue"
+  },
+  "OutlineCodeIcon": {
+    "description": "Auto imported from node_modules/@nuxt-hero-icons/outline/src/components/CodeIcon.vue"
+  },
+  "OutlineCogIcon": {
+    "description": "Auto imported from node_modules/@nuxt-hero-icons/outline/src/components/CogIcon.vue"
+  },
+  "OutlineCollectionIcon": {
+    "description": "Auto imported from node_modules/@nuxt-hero-icons/outline/src/components/CollectionIcon.vue"
+  },
+  "OutlineColorSwatchIcon": {
+    "description": "Auto imported from node_modules/@nuxt-hero-icons/outline/src/components/ColorSwatchIcon.vue"
+  },
+  "OutlineCreditCardIcon": {
+    "description": "Auto imported from node_modules/@nuxt-hero-icons/outline/src/components/CreditCardIcon.vue"
+  },
+  "OutlineCubeIcon": {
+    "description": "Auto imported from node_modules/@nuxt-hero-icons/outline/src/components/CubeIcon.vue"
+  },
+  "OutlineCubeTransparentIcon": {
+    "description": "Auto imported from node_modules/@nuxt-hero-icons/outline/src/components/CubeTransparentIcon.vue"
+  },
+  "OutlineCurrencyBangladeshiIcon": {
+    "description": "Auto imported from node_modules/@nuxt-hero-icons/outline/src/components/CurrencyBangladeshiIcon.vue"
+  },
+  "OutlineCurrencyDollarIcon": {
+    "description": "Auto imported from node_modules/@nuxt-hero-icons/outline/src/components/CurrencyDollarIcon.vue"
+  },
+  "OutlineCurrencyEuroIcon": {
+    "description": "Auto imported from node_modules/@nuxt-hero-icons/outline/src/components/CurrencyEuroIcon.vue"
+  },
+  "OutlineCurrencyPoundIcon": {
+    "description": "Auto imported from node_modules/@nuxt-hero-icons/outline/src/components/CurrencyPoundIcon.vue"
+  },
+  "OutlineCurrencyRupeeIcon": {
+    "description": "Auto imported from node_modules/@nuxt-hero-icons/outline/src/components/CurrencyRupeeIcon.vue"
+  },
+  "OutlineCurrencyYenIcon": {
+    "description": "Auto imported from node_modules/@nuxt-hero-icons/outline/src/components/CurrencyYenIcon.vue"
+  },
+  "OutlineCursorClickIcon": {
+    "description": "Auto imported from node_modules/@nuxt-hero-icons/outline/src/components/CursorClickIcon.vue"
+  },
+  "OutlineDatabaseIcon": {
+    "description": "Auto imported from node_modules/@nuxt-hero-icons/outline/src/components/DatabaseIcon.vue"
+  },
+  "OutlineDesktopComputerIcon": {
+    "description": "Auto imported from node_modules/@nuxt-hero-icons/outline/src/components/DesktopComputerIcon.vue"
+  },
+  "OutlineDeviceMobileIcon": {
+    "description": "Auto imported from node_modules/@nuxt-hero-icons/outline/src/components/DeviceMobileIcon.vue"
+  },
+  "OutlineDeviceTabletIcon": {
+    "description": "Auto imported from node_modules/@nuxt-hero-icons/outline/src/components/DeviceTabletIcon.vue"
+  },
+  "OutlineDocumentAddIcon": {
+    "description": "Auto imported from node_modules/@nuxt-hero-icons/outline/src/components/DocumentAddIcon.vue"
+  },
+  "OutlineDocumentDownloadIcon": {
+    "description": "Auto imported from node_modules/@nuxt-hero-icons/outline/src/components/DocumentDownloadIcon.vue"
+  },
+  "OutlineDocumentDuplicateIcon": {
+    "description": "Auto imported from node_modules/@nuxt-hero-icons/outline/src/components/DocumentDuplicateIcon.vue"
+  },
+  "OutlineDocumentIcon": {
+    "description": "Auto imported from node_modules/@nuxt-hero-icons/outline/src/components/DocumentIcon.vue"
+  },
+  "OutlineDocumentRemoveIcon": {
+    "description": "Auto imported from node_modules/@nuxt-hero-icons/outline/src/components/DocumentRemoveIcon.vue"
+  },
+  "OutlineDocumentReportIcon": {
+    "description": "Auto imported from node_modules/@nuxt-hero-icons/outline/src/components/DocumentReportIcon.vue"
+  },
+  "OutlineDocumentSearchIcon": {
+    "description": "Auto imported from node_modules/@nuxt-hero-icons/outline/src/components/DocumentSearchIcon.vue"
+  },
+  "OutlineDocumentTextIcon": {
+    "description": "Auto imported from node_modules/@nuxt-hero-icons/outline/src/components/DocumentTextIcon.vue"
+  },
+  "OutlineDotsCircleHorizontalIcon": {
+    "description": "Auto imported from node_modules/@nuxt-hero-icons/outline/src/components/DotsCircleHorizontalIcon.vue"
+  },
+  "OutlineDotsHorizontalIcon": {
+    "description": "Auto imported from node_modules/@nuxt-hero-icons/outline/src/components/DotsHorizontalIcon.vue"
+  },
+  "OutlineDotsVerticalIcon": {
+    "description": "Auto imported from node_modules/@nuxt-hero-icons/outline/src/components/DotsVerticalIcon.vue"
+  },
+  "OutlineDownloadIcon": {
+    "description": "Auto imported from node_modules/@nuxt-hero-icons/outline/src/components/DownloadIcon.vue"
+  },
+  "OutlineDuplicateIcon": {
+    "description": "Auto imported from node_modules/@nuxt-hero-icons/outline/src/components/DuplicateIcon.vue"
+  },
+  "OutlineEmojiHappyIcon": {
+    "description": "Auto imported from node_modules/@nuxt-hero-icons/outline/src/components/EmojiHappyIcon.vue"
+  },
+  "OutlineEmojiSadIcon": {
+    "description": "Auto imported from node_modules/@nuxt-hero-icons/outline/src/components/EmojiSadIcon.vue"
+  },
+  "OutlineExclamationCircleIcon": {
+    "description": "Auto imported from node_modules/@nuxt-hero-icons/outline/src/components/ExclamationCircleIcon.vue"
+  },
+  "OutlineExclamationIcon": {
+    "description": "Auto imported from node_modules/@nuxt-hero-icons/outline/src/components/ExclamationIcon.vue"
+  },
+  "OutlineExternalLinkIcon": {
+    "description": "Auto imported from node_modules/@nuxt-hero-icons/outline/src/components/ExternalLinkIcon.vue"
+  },
+  "OutlineEyeIcon": {
+    "description": "Auto imported from node_modules/@nuxt-hero-icons/outline/src/components/EyeIcon.vue"
+  },
+  "OutlineEyeOffIcon": {
+    "description": "Auto imported from node_modules/@nuxt-hero-icons/outline/src/components/EyeOffIcon.vue"
+  },
+  "OutlineFastForwardIcon": {
+    "description": "Auto imported from node_modules/@nuxt-hero-icons/outline/src/components/FastForwardIcon.vue"
+  },
+  "OutlineFilmIcon": {
+    "description": "Auto imported from node_modules/@nuxt-hero-icons/outline/src/components/FilmIcon.vue"
+  },
+  "OutlineFilterIcon": {
+    "description": "Auto imported from node_modules/@nuxt-hero-icons/outline/src/components/FilterIcon.vue"
+  },
+  "OutlineFingerPrintIcon": {
+    "description": "Auto imported from node_modules/@nuxt-hero-icons/outline/src/components/FingerPrintIcon.vue"
+  },
+  "OutlineFireIcon": {
+    "description": "Auto imported from node_modules/@nuxt-hero-icons/outline/src/components/FireIcon.vue"
+  },
+  "OutlineFlagIcon": {
+    "description": "Auto imported from node_modules/@nuxt-hero-icons/outline/src/components/FlagIcon.vue"
+  },
+  "OutlineFolderAddIcon": {
+    "description": "Auto imported from node_modules/@nuxt-hero-icons/outline/src/components/FolderAddIcon.vue"
+  },
+  "OutlineFolderDownloadIcon": {
+    "description": "Auto imported from node_modules/@nuxt-hero-icons/outline/src/components/FolderDownloadIcon.vue"
+  },
+  "OutlineFolderIcon": {
+    "description": "Auto imported from node_modules/@nuxt-hero-icons/outline/src/components/FolderIcon.vue"
+  },
+  "OutlineFolderOpenIcon": {
+    "description": "Auto imported from node_modules/@nuxt-hero-icons/outline/src/components/FolderOpenIcon.vue"
+  },
+  "OutlineFolderRemoveIcon": {
+    "description": "Auto imported from node_modules/@nuxt-hero-icons/outline/src/components/FolderRemoveIcon.vue"
+  },
+  "OutlineGiftIcon": {
+    "description": "Auto imported from node_modules/@nuxt-hero-icons/outline/src/components/GiftIcon.vue"
+  },
+  "OutlineGlobeAltIcon": {
+    "description": "Auto imported from node_modules/@nuxt-hero-icons/outline/src/components/GlobeAltIcon.vue"
+  },
+  "OutlineGlobeIcon": {
+    "description": "Auto imported from node_modules/@nuxt-hero-icons/outline/src/components/GlobeIcon.vue"
+  },
+  "OutlineHandIcon": {
+    "description": "Auto imported from node_modules/@nuxt-hero-icons/outline/src/components/HandIcon.vue"
+  },
+  "OutlineHashtagIcon": {
+    "description": "Auto imported from node_modules/@nuxt-hero-icons/outline/src/components/HashtagIcon.vue"
+  },
+  "OutlineHeartIcon": {
+    "description": "Auto imported from node_modules/@nuxt-hero-icons/outline/src/components/HeartIcon.vue"
+  },
+  "OutlineHomeIcon": {
+    "description": "Auto imported from node_modules/@nuxt-hero-icons/outline/src/components/HomeIcon.vue"
+  },
+  "OutlineIdentificationIcon": {
+    "description": "Auto imported from node_modules/@nuxt-hero-icons/outline/src/components/IdentificationIcon.vue"
+  },
+  "OutlineInboxIcon": {
+    "description": "Auto imported from node_modules/@nuxt-hero-icons/outline/src/components/InboxIcon.vue"
+  },
+  "OutlineInboxInIcon": {
+    "description": "Auto imported from node_modules/@nuxt-hero-icons/outline/src/components/InboxInIcon.vue"
+  },
+  "OutlineInformationCircleIcon": {
+    "description": "Auto imported from node_modules/@nuxt-hero-icons/outline/src/components/InformationCircleIcon.vue"
+  },
+  "OutlineKeyIcon": {
+    "description": "Auto imported from node_modules/@nuxt-hero-icons/outline/src/components/KeyIcon.vue"
+  },
+  "OutlineLibraryIcon": {
+    "description": "Auto imported from node_modules/@nuxt-hero-icons/outline/src/components/LibraryIcon.vue"
+  },
+  "OutlineLightBulbIcon": {
+    "description": "Auto imported from node_modules/@nuxt-hero-icons/outline/src/components/LightBulbIcon.vue"
+  },
+  "OutlineLightningBoltIcon": {
+    "description": "Auto imported from node_modules/@nuxt-hero-icons/outline/src/components/LightningBoltIcon.vue"
+  },
+  "OutlineLinkIcon": {
+    "description": "Auto imported from node_modules/@nuxt-hero-icons/outline/src/components/LinkIcon.vue"
+  },
+  "OutlineLocationMarkerIcon": {
+    "description": "Auto imported from node_modules/@nuxt-hero-icons/outline/src/components/LocationMarkerIcon.vue"
+  },
+  "OutlineLockClosedIcon": {
+    "description": "Auto imported from node_modules/@nuxt-hero-icons/outline/src/components/LockClosedIcon.vue"
+  },
+  "OutlineLockOpenIcon": {
+    "description": "Auto imported from node_modules/@nuxt-hero-icons/outline/src/components/LockOpenIcon.vue"
+  },
+  "OutlineLoginIcon": {
+    "description": "Auto imported from node_modules/@nuxt-hero-icons/outline/src/components/LoginIcon.vue"
+  },
+  "OutlineLogoutIcon": {
+    "description": "Auto imported from node_modules/@nuxt-hero-icons/outline/src/components/LogoutIcon.vue"
+  },
+  "OutlineMailIcon": {
+    "description": "Auto imported from node_modules/@nuxt-hero-icons/outline/src/components/MailIcon.vue"
+  },
+  "OutlineMailOpenIcon": {
+    "description": "Auto imported from node_modules/@nuxt-hero-icons/outline/src/components/MailOpenIcon.vue"
+  },
+  "OutlineMapIcon": {
+    "description": "Auto imported from node_modules/@nuxt-hero-icons/outline/src/components/MapIcon.vue"
+  },
+  "OutlineMenuAlt1Icon": {
+    "description": "Auto imported from node_modules/@nuxt-hero-icons/outline/src/components/MenuAlt1Icon.vue"
+  },
+  "OutlineMenuAlt2Icon": {
+    "description": "Auto imported from node_modules/@nuxt-hero-icons/outline/src/components/MenuAlt2Icon.vue"
+  },
+  "OutlineMenuAlt3Icon": {
+    "description": "Auto imported from node_modules/@nuxt-hero-icons/outline/src/components/MenuAlt3Icon.vue"
+  },
+  "OutlineMenuAlt4Icon": {
+    "description": "Auto imported from node_modules/@nuxt-hero-icons/outline/src/components/MenuAlt4Icon.vue"
+  },
+  "OutlineMenuIcon": {
+    "description": "Auto imported from node_modules/@nuxt-hero-icons/outline/src/components/MenuIcon.vue"
+  },
+  "OutlineMicrophoneIcon": {
+    "description": "Auto imported from node_modules/@nuxt-hero-icons/outline/src/components/MicrophoneIcon.vue"
+  },
+  "OutlineMinusCircleIcon": {
+    "description": "Auto imported from node_modules/@nuxt-hero-icons/outline/src/components/MinusCircleIcon.vue"
+  },
+  "OutlineMinusIcon": {
+    "description": "Auto imported from node_modules/@nuxt-hero-icons/outline/src/components/MinusIcon.vue"
+  },
+  "OutlineMinusSmIcon": {
+    "description": "Auto imported from node_modules/@nuxt-hero-icons/outline/src/components/MinusSmIcon.vue"
+  },
+  "OutlineMoonIcon": {
+    "description": "Auto imported from node_modules/@nuxt-hero-icons/outline/src/components/MoonIcon.vue"
+  },
+  "OutlineMusicNoteIcon": {
+    "description": "Auto imported from node_modules/@nuxt-hero-icons/outline/src/components/MusicNoteIcon.vue"
+  },
+  "OutlineNewspaperIcon": {
+    "description": "Auto imported from node_modules/@nuxt-hero-icons/outline/src/components/NewspaperIcon.vue"
+  },
+  "OutlineOfficeBuildingIcon": {
+    "description": "Auto imported from node_modules/@nuxt-hero-icons/outline/src/components/OfficeBuildingIcon.vue"
+  },
+  "OutlinePaperAirplaneIcon": {
+    "description": "Auto imported from node_modules/@nuxt-hero-icons/outline/src/components/PaperAirplaneIcon.vue"
+  },
+  "OutlinePaperClipIcon": {
+    "description": "Auto imported from node_modules/@nuxt-hero-icons/outline/src/components/PaperClipIcon.vue"
+  },
+  "OutlinePauseIcon": {
+    "description": "Auto imported from node_modules/@nuxt-hero-icons/outline/src/components/PauseIcon.vue"
+  },
+  "OutlinePencilAltIcon": {
+    "description": "Auto imported from node_modules/@nuxt-hero-icons/outline/src/components/PencilAltIcon.vue"
+  },
+  "OutlinePencilIcon": {
+    "description": "Auto imported from node_modules/@nuxt-hero-icons/outline/src/components/PencilIcon.vue"
+  },
+  "OutlinePhoneIcon": {
+    "description": "Auto imported from node_modules/@nuxt-hero-icons/outline/src/components/PhoneIcon.vue"
+  },
+  "OutlinePhoneIncomingIcon": {
+    "description": "Auto imported from node_modules/@nuxt-hero-icons/outline/src/components/PhoneIncomingIcon.vue"
+  },
+  "OutlinePhoneMissedCallIcon": {
+    "description": "Auto imported from node_modules/@nuxt-hero-icons/outline/src/components/PhoneMissedCallIcon.vue"
+  },
+  "OutlinePhoneOutgoingIcon": {
+    "description": "Auto imported from node_modules/@nuxt-hero-icons/outline/src/components/PhoneOutgoingIcon.vue"
+  },
+  "OutlinePhotographIcon": {
+    "description": "Auto imported from node_modules/@nuxt-hero-icons/outline/src/components/PhotographIcon.vue"
+  },
+  "OutlinePlayIcon": {
+    "description": "Auto imported from node_modules/@nuxt-hero-icons/outline/src/components/PlayIcon.vue"
+  },
+  "OutlinePlusCircleIcon": {
+    "description": "Auto imported from node_modules/@nuxt-hero-icons/outline/src/components/PlusCircleIcon.vue"
+  },
+  "OutlinePlusIcon": {
+    "description": "Auto imported from node_modules/@nuxt-hero-icons/outline/src/components/PlusIcon.vue"
+  },
+  "OutlinePlusSmIcon": {
+    "description": "Auto imported from node_modules/@nuxt-hero-icons/outline/src/components/PlusSmIcon.vue"
+  },
+  "OutlinePresentationChartBarIcon": {
+    "description": "Auto imported from node_modules/@nuxt-hero-icons/outline/src/components/PresentationChartBarIcon.vue"
+  },
+  "OutlinePresentationChartLineIcon": {
+    "description": "Auto imported from node_modules/@nuxt-hero-icons/outline/src/components/PresentationChartLineIcon.vue"
+  },
+  "OutlinePrinterIcon": {
+    "description": "Auto imported from node_modules/@nuxt-hero-icons/outline/src/components/PrinterIcon.vue"
+  },
+  "OutlinePuzzleIcon": {
+    "description": "Auto imported from node_modules/@nuxt-hero-icons/outline/src/components/PuzzleIcon.vue"
+  },
+  "OutlineQrcodeIcon": {
+    "description": "Auto imported from node_modules/@nuxt-hero-icons/outline/src/components/QrcodeIcon.vue"
+  },
+  "OutlineQuestionMarkCircleIcon": {
+    "description": "Auto imported from node_modules/@nuxt-hero-icons/outline/src/components/QuestionMarkCircleIcon.vue"
+  },
+  "OutlineReceiptRefundIcon": {
+    "description": "Auto imported from node_modules/@nuxt-hero-icons/outline/src/components/ReceiptRefundIcon.vue"
+  },
+  "OutlineReceiptTaxIcon": {
+    "description": "Auto imported from node_modules/@nuxt-hero-icons/outline/src/components/ReceiptTaxIcon.vue"
+  },
+  "OutlineRefreshIcon": {
+    "description": "Auto imported from node_modules/@nuxt-hero-icons/outline/src/components/RefreshIcon.vue"
+  },
+  "OutlineReplyIcon": {
+    "description": "Auto imported from node_modules/@nuxt-hero-icons/outline/src/components/ReplyIcon.vue"
+  },
+  "OutlineRewindIcon": {
+    "description": "Auto imported from node_modules/@nuxt-hero-icons/outline/src/components/RewindIcon.vue"
+  },
+  "OutlineRssIcon": {
+    "description": "Auto imported from node_modules/@nuxt-hero-icons/outline/src/components/RssIcon.vue"
+  },
+  "OutlineSaveAsIcon": {
+    "description": "Auto imported from node_modules/@nuxt-hero-icons/outline/src/components/SaveAsIcon.vue"
+  },
+  "OutlineSaveIcon": {
+    "description": "Auto imported from node_modules/@nuxt-hero-icons/outline/src/components/SaveIcon.vue"
+  },
+  "OutlineScaleIcon": {
+    "description": "Auto imported from node_modules/@nuxt-hero-icons/outline/src/components/ScaleIcon.vue"
+  },
+  "OutlineScissorsIcon": {
+    "description": "Auto imported from node_modules/@nuxt-hero-icons/outline/src/components/ScissorsIcon.vue"
+  },
+  "OutlineSearchCircleIcon": {
+    "description": "Auto imported from node_modules/@nuxt-hero-icons/outline/src/components/SearchCircleIcon.vue"
+  },
+  "OutlineSearchIcon": {
+    "description": "Auto imported from node_modules/@nuxt-hero-icons/outline/src/components/SearchIcon.vue"
+  },
+  "OutlineSelectorIcon": {
+    "description": "Auto imported from node_modules/@nuxt-hero-icons/outline/src/components/SelectorIcon.vue"
+  },
+  "OutlineServerIcon": {
+    "description": "Auto imported from node_modules/@nuxt-hero-icons/outline/src/components/ServerIcon.vue"
+  },
+  "OutlineShareIcon": {
+    "description": "Auto imported from node_modules/@nuxt-hero-icons/outline/src/components/ShareIcon.vue"
+  },
+  "OutlineShieldCheckIcon": {
+    "description": "Auto imported from node_modules/@nuxt-hero-icons/outline/src/components/ShieldCheckIcon.vue"
+  },
+  "OutlineShieldExclamationIcon": {
+    "description": "Auto imported from node_modules/@nuxt-hero-icons/outline/src/components/ShieldExclamationIcon.vue"
+  },
+  "OutlineShoppingBagIcon": {
+    "description": "Auto imported from node_modules/@nuxt-hero-icons/outline/src/components/ShoppingBagIcon.vue"
+  },
+  "OutlineShoppingCartIcon": {
+    "description": "Auto imported from node_modules/@nuxt-hero-icons/outline/src/components/ShoppingCartIcon.vue"
+  },
+  "OutlineSortAscendingIcon": {
+    "description": "Auto imported from node_modules/@nuxt-hero-icons/outline/src/components/SortAscendingIcon.vue"
+  },
+  "OutlineSortDescendingIcon": {
+    "description": "Auto imported from node_modules/@nuxt-hero-icons/outline/src/components/SortDescendingIcon.vue"
+  },
+  "OutlineSparklesIcon": {
+    "description": "Auto imported from node_modules/@nuxt-hero-icons/outline/src/components/SparklesIcon.vue"
+  },
+  "OutlineSpeakerphoneIcon": {
+    "description": "Auto imported from node_modules/@nuxt-hero-icons/outline/src/components/SpeakerphoneIcon.vue"
+  },
+  "OutlineStarIcon": {
+    "description": "Auto imported from node_modules/@nuxt-hero-icons/outline/src/components/StarIcon.vue"
+  },
+  "OutlineStatusOfflineIcon": {
+    "description": "Auto imported from node_modules/@nuxt-hero-icons/outline/src/components/StatusOfflineIcon.vue"
+  },
+  "OutlineStatusOnlineIcon": {
+    "description": "Auto imported from node_modules/@nuxt-hero-icons/outline/src/components/StatusOnlineIcon.vue"
+  },
+  "OutlineStopIcon": {
+    "description": "Auto imported from node_modules/@nuxt-hero-icons/outline/src/components/StopIcon.vue"
+  },
+  "OutlineSunIcon": {
+    "description": "Auto imported from node_modules/@nuxt-hero-icons/outline/src/components/SunIcon.vue"
+  },
+  "OutlineSupportIcon": {
+    "description": "Auto imported from node_modules/@nuxt-hero-icons/outline/src/components/SupportIcon.vue"
+  },
+  "OutlineSwitchHorizontalIcon": {
+    "description": "Auto imported from node_modules/@nuxt-hero-icons/outline/src/components/SwitchHorizontalIcon.vue"
+  },
+  "OutlineSwitchVerticalIcon": {
+    "description": "Auto imported from node_modules/@nuxt-hero-icons/outline/src/components/SwitchVerticalIcon.vue"
+  },
+  "OutlineTableIcon": {
+    "description": "Auto imported from node_modules/@nuxt-hero-icons/outline/src/components/TableIcon.vue"
+  },
+  "OutlineTagIcon": {
+    "description": "Auto imported from node_modules/@nuxt-hero-icons/outline/src/components/TagIcon.vue"
+  },
+  "OutlineTemplateIcon": {
+    "description": "Auto imported from node_modules/@nuxt-hero-icons/outline/src/components/TemplateIcon.vue"
+  },
+  "OutlineTerminalIcon": {
+    "description": "Auto imported from node_modules/@nuxt-hero-icons/outline/src/components/TerminalIcon.vue"
+  },
+  "OutlineThumbDownIcon": {
+    "description": "Auto imported from node_modules/@nuxt-hero-icons/outline/src/components/ThumbDownIcon.vue"
+  },
+  "OutlineThumbUpIcon": {
+    "description": "Auto imported from node_modules/@nuxt-hero-icons/outline/src/components/ThumbUpIcon.vue"
+  },
+  "OutlineTicketIcon": {
+    "description": "Auto imported from node_modules/@nuxt-hero-icons/outline/src/components/TicketIcon.vue"
+  },
+  "OutlineTranslateIcon": {
+    "description": "Auto imported from node_modules/@nuxt-hero-icons/outline/src/components/TranslateIcon.vue"
+  },
+  "OutlineTrashIcon": {
+    "description": "Auto imported from node_modules/@nuxt-hero-icons/outline/src/components/TrashIcon.vue"
+  },
+  "OutlineTrendingDownIcon": {
+    "description": "Auto imported from node_modules/@nuxt-hero-icons/outline/src/components/TrendingDownIcon.vue"
+  },
+  "OutlineTrendingUpIcon": {
+    "description": "Auto imported from node_modules/@nuxt-hero-icons/outline/src/components/TrendingUpIcon.vue"
+  },
+  "OutlineTruckIcon": {
+    "description": "Auto imported from node_modules/@nuxt-hero-icons/outline/src/components/TruckIcon.vue"
+  },
+  "OutlineUploadIcon": {
+    "description": "Auto imported from node_modules/@nuxt-hero-icons/outline/src/components/UploadIcon.vue"
+  },
+  "OutlineUserAddIcon": {
+    "description": "Auto imported from node_modules/@nuxt-hero-icons/outline/src/components/UserAddIcon.vue"
+  },
+  "OutlineUserCircleIcon": {
+    "description": "Auto imported from node_modules/@nuxt-hero-icons/outline/src/components/UserCircleIcon.vue"
+  },
+  "OutlineUserGroupIcon": {
+    "description": "Auto imported from node_modules/@nuxt-hero-icons/outline/src/components/UserGroupIcon.vue"
+  },
+  "OutlineUserIcon": {
+    "description": "Auto imported from node_modules/@nuxt-hero-icons/outline/src/components/UserIcon.vue"
+  },
+  "OutlineUserRemoveIcon": {
+    "description": "Auto imported from node_modules/@nuxt-hero-icons/outline/src/components/UserRemoveIcon.vue"
+  },
+  "OutlineUsersIcon": {
+    "description": "Auto imported from node_modules/@nuxt-hero-icons/outline/src/components/UsersIcon.vue"
+  },
+  "OutlineVariableIcon": {
+    "description": "Auto imported from node_modules/@nuxt-hero-icons/outline/src/components/VariableIcon.vue"
+  },
+  "OutlineVideoCameraIcon": {
+    "description": "Auto imported from node_modules/@nuxt-hero-icons/outline/src/components/VideoCameraIcon.vue"
+  },
+  "OutlineViewBoardsIcon": {
+    "description": "Auto imported from node_modules/@nuxt-hero-icons/outline/src/components/ViewBoardsIcon.vue"
+  },
+  "OutlineViewGridAddIcon": {
+    "description": "Auto imported from node_modules/@nuxt-hero-icons/outline/src/components/ViewGridAddIcon.vue"
+  },
+  "OutlineViewGridIcon": {
+    "description": "Auto imported from node_modules/@nuxt-hero-icons/outline/src/components/ViewGridIcon.vue"
+  },
+  "OutlineViewListIcon": {
+    "description": "Auto imported from node_modules/@nuxt-hero-icons/outline/src/components/ViewListIcon.vue"
+  },
+  "OutlineVolumeOffIcon": {
+    "description": "Auto imported from node_modules/@nuxt-hero-icons/outline/src/components/VolumeOffIcon.vue"
+  },
+  "OutlineVolumeUpIcon": {
+    "description": "Auto imported from node_modules/@nuxt-hero-icons/outline/src/components/VolumeUpIcon.vue"
+  },
+  "OutlineWifiIcon": {
+    "description": "Auto imported from node_modules/@nuxt-hero-icons/outline/src/components/WifiIcon.vue"
+  },
+  "OutlineXCircleIcon": {
+    "description": "Auto imported from node_modules/@nuxt-hero-icons/outline/src/components/XCircleIcon.vue"
+  },
+  "OutlineXIcon": {
+    "description": "Auto imported from node_modules/@nuxt-hero-icons/outline/src/components/XIcon.vue"
+  },
+  "OutlineZoomInIcon": {
+    "description": "Auto imported from node_modules/@nuxt-hero-icons/outline/src/components/ZoomInIcon.vue"
+  },
+  "OutlineZoomOutIcon": {
+    "description": "Auto imported from node_modules/@nuxt-hero-icons/outline/src/components/ZoomOutIcon.vue"
+  },
+  "Header": {
+    "description": "Auto imported from components/header.vue"
+  },
+  "Sidebar": {
+    "description": "Auto imported from components/sidebar/index.vue"
+  },
+  "SidebarSublistItem": {
+    "description": "Auto imported from components/sidebar/sublist-item.vue"
+  },
+  "SidebarSublist": {
+    "description": "Auto imported from components/sidebar/sublist.vue"
+  }
+}
